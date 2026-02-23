@@ -21,6 +21,12 @@ export default function ProjectsSection() {
             image: "/assets/project/portal.png",
             link: "https://www.instagram.com/p/DKCf22_PHdA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         },
+        {
+            title: "Prayer Reminder WA Bot",
+            description: "An automated WhatsApp notification system that sends real-time prayer schedule reminders based on the user's location/domicile.",
+            image: "/assets/project/sholat-reminder.png", 
+            link: "https://www.instagram.com/p/DKj8XNTvv5J/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        },
     ];
 
     return (
