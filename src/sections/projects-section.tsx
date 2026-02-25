@@ -52,7 +52,7 @@ export default function ProjectsSection() {
                                 className="group inline-flex items-center bg-indigo-600 hover:bg-indigo-700 text-white px-7 py-2.5 mt-4 rounded-lg transition-colors"
                                 target="_blank"
                             >
-                                Lihat
+                                See more
                                 <ArrowRightIcon className="group-hover:translate-x-1 transition-transform ml-2 size-5" />
                             </a>
                         </div>
