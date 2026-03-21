@@ -3,7 +3,7 @@ import Section from "../components/section";
 export default function EducationSection() {
     const education = [
         {
-            image: "/assets/amikom.png",
+            image: "/assets/education/amikom.png",
             degree: "Associate Degree in Information Management",
             institution: "Universitas Amikom Yogyakarta",
             start: "Sep 2022",
@@ -11,7 +11,7 @@ export default function EducationSection() {
             description: "Engaged in hands-on practical experience through laboratory work and real-world projects, focusing on developing systematic problem-solving skills in information systems."
         },
         {
-            image: "/assets/smk.jpg", 
+            image: "/assets/education/smk.jpg", 
             degree: "Computer and Network Engineering",
             institution: "SMK Negeri 2 Yogyakarta",
             start: "Jul 2019",

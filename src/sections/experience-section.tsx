@@ -3,7 +3,7 @@ import Section from "../components/section";
 export default function ExperienceSection() {
     const experience = [
         {
-            image: "/assets/Logo-Digital-Kita.png",
+            image: "/assets/work/Logo-Digital-Kita.png",
             title: "Freelance Developer",
             company: "Digital Kita",
             location: "Yogyakarta",
@@ -16,7 +16,7 @@ export default function ExperienceSection() {
             ],
         },
         {
-            image: "/assets/sti.jpg",
+            image: "/assets/work/sti.jpg",
             title: "Remote Full Stack Developer",
             company: "PT. Sumeh Teknologi Indonesia",
             location: "Yogyakarta",
@@ -29,7 +29,7 @@ export default function ExperienceSection() {
             ],
         },
         {
-            image: "/assets/sgi.jpg",
+            image: "/assets/work/sgi.jpg",
             title: "IT Programmer",
             company: "PT. Sport Glove Indonesia",
             location: "Yogyakarta",
@@ -42,7 +42,7 @@ export default function ExperienceSection() {
             ],
         },
         {
-            image: "/assets/aji.png",
+            image: "/assets/work/aji.png",
             title: "Intern Full Stack Developer",
             company: "PT. Astra Juoku Indonesia",
             location: "Yogyakarta",
@@ -55,7 +55,7 @@ export default function ExperienceSection() {
             ],
         },
         {
-            image: "/assets/sims.png",
+            image: "/assets/work/sims.png",
             title: "Intern Support Team",
             company: "Life Media",
             location: "Yogyakarta",
