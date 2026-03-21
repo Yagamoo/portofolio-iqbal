@@ -27,6 +27,18 @@ export default function ProjectsSection() {
             image: "/assets/project/sholat-reminder.png", 
             link: "https://www.instagram.com/p/DKj8XNTvv5J/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         },
+        {
+            title: "Company Profile DigitalKita",
+            description: "A professional digital agency company profile showcasing specialized services in IT solutions, software development, and digital transformation with a modern and responsive user interface.",
+            image: "/assets/project/sholat-reminder.png", 
+            link: "https://compro-digitalkita.vercel.app",
+        },
+        {
+            title: "Company Profile Lumière Clinic",
+            description: "A sophisticated digital presence for Lumière Clinic, designed to showcase premium healthcare and aesthetic services with a focus on user trust and professional branding.",
+            image: "/assets/project/sholat-reminder.png", 
+            link: "https://lumiere-clinic.vercel.app",
+        },
     ];
 
     return (
