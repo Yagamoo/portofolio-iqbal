@@ -39,6 +39,12 @@ export default function ProjectsSection() {
             image: "/assets/project/lumiere-clinic.png", 
             link: "https://lumiere-clinic.vercel.app",
         },
+        {
+            title: "Company Profile Vantara Textile",
+            description: "A corporate B2B homepage for an international garment manufacturer and exporter, built with Tailwind CSS. Features a professional layout covering capabilities, production workflow, global reach, and export compliance — designed to establish trust with international buyers.",
+            image: "/assets/project/vantara-textile.png", 
+            link: "https://vantara-textile.vercel.app",
+        },
     ];
 
     return (
