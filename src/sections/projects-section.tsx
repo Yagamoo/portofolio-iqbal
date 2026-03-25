@@ -51,6 +51,12 @@ export default function ProjectsSection() {
             image: "/assets/project/ocean-drift.png", 
             link: "https://ocean-drift.vercel.app",
         },
+        {
+            title: "Arkanusa Catalog",
+            description: "An interactive product discovery platform designed for Arkanusa, featuring a seamless browsing experience, categorized collections, and high-fidelity visuals to highlight product excellence.",
+            image: "/assets/project/arakanusa.png", 
+            link: "https://arkanusa-five.vercel.app",
+        },
     ];
 
     return (
