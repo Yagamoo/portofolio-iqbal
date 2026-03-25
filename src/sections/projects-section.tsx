@@ -54,7 +54,7 @@ export default function ProjectsSection() {
         {
             title: "Arkanusa Catalog",
             description: "An interactive product discovery platform designed for Arkanusa, featuring a seamless browsing experience, categorized collections, and high-fidelity visuals to highlight product excellence.",
-            image: "/assets/project/arakanusa.png", 
+            image: "/assets/project/arkanusa.png", 
             link: "https://arkanusa-five.vercel.app",
         },
     ];
