@@ -45,6 +45,12 @@ export default function ProjectsSection() {
             image: "/assets/project/vantara-textile.png", 
             link: "https://vantara-textile.vercel.app",
         },
+        {
+            title: "Ocean Drift Travel",
+            description: "A premier travel platform offering curated marine adventures across the Indonesian archipelago, from Raja Ampat to Komodo, for the modern explorer.",
+            image: "/assets/project/ocean-drift.png", 
+            link: "https://ocean-drift.vercel.app",
+        },
     ];
 
     return (
